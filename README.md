@@ -1,0 +1,2 @@
+# SayIt-Project
+I am trying to learn more about Web Development by starting my own project SayIt. It is a confession/messaging website. I am trying to build this from scratch without using any template or external CSS frameworks like Bootstrap 4 or W3.CSS . I am aiming to learn more about JS libraries like jQuery or frameworks like Angular or React. And this is why I will be uploading different files for scripts. For server-side tasks I'll be relying on Django and Flask.
